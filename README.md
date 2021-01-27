@@ -1,6 +1,6 @@
 # jobportal
 
-# MERN Stack Boilerplate
+# MERN StacK
 
 ## Installations
 
